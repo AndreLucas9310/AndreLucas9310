@@ -3,7 +3,8 @@
 
 
 
-<image src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=andr9310@gmail.com"/>
+<a href="#" alt="Gmail"> 
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=andr93102@gmail.com" /></a>
 
 
 
